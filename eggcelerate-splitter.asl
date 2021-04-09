@@ -88,8 +88,20 @@ split
     }
 
     if(settings["single_tracks"])
-    {
-        return current.Racecar_mCheckpoint > old.Racecar_mCheckpoint;
+    {  
+        int track = 0;
+
+        for(int i = 0; i < 30; i++)
+        {
+            if(settings["track_" + (i + 1)])
+            {
+                track = i;
+                break;
+            }
+        }
+
+        return current.Racecar_mCheckpoint > old.Racecar_mCheckpoint &&
+               current.GameManager_theCurrentTrack == track;
     }
 }
 

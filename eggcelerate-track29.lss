@@ -1,7 +1,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Eggcelerate!</GameName>
-  <CategoryName>Track 27</CategoryName>
+  <CategoryName>Track 29</CategoryName>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -15,7 +15,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Seesaw I</Name>
+      <Name>Big Hill</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -24,7 +24,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Jump | Downhill</Name>
+      <Name>Awkward Corner</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -33,25 +33,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Downhill | Turn</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Before Jump | Seesaw II</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>After Jump | Straight</Name>
+      <Name>Dirt Straight</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
