@@ -1,7 +1,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Eggcelerate!</GameName>
-  <CategoryName>Track 5</CategoryName>
+  <CategoryName>Track 6</CategoryName>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -24,7 +24,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Straight</Name>
+      <Name>Bowling Pins</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -33,7 +33,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Turn Right</Name>
+      <Name>Turn over Hump</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
