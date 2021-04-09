@@ -1,7 +1,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Eggcelerate!</GameName>
-  <CategoryName>Track 7</CategoryName>
+  <CategoryName>Track 8</CategoryName>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -15,7 +15,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Hump I</Name>
+      <Name>Glove I</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -24,7 +24,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Hump II</Name>
+      <Name>Glove II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Turn Right</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
