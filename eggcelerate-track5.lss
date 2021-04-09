@@ -15,6 +15,15 @@
   <AttemptHistory />
   <Segments>
     <Segment>
+      <Name>Hump I</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>Turn Left</Name>
       <Icon />
       <SplitTimes>
@@ -24,7 +33,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Straight</Name>
+      <Name>Banking</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -33,7 +42,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Turn Right</Name>
+      <Name>Hump II</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Hump III</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
