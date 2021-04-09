@@ -37,6 +37,8 @@ You can toggle all these options.
 - All Tracks (1 to 30) KeepItAlive% → Starts at level 1, Splits on level change, Resets if the egg is broken before level 30.
 - Single Track → Starts at the selected level, splits on checkpoint changes, resets if the checkpoint is set to -1 (before the starting line).
 
+**NOTE:** Selecting multiple tracks in the single track category _will not work!_.
+
 ## Using the lsstk.py tool:
 The lsstk (LiveSplit Splits Toolkit) tool is a convient way to perform some actions.
 An python installation is required to use this.
