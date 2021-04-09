@@ -15,7 +15,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Turn Left</Name>
+      <Name>Junction I</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -24,7 +24,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Straight</Name>
+      <Name>Dip</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -33,7 +33,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Turn Right</Name>
+      <Name>Junction II</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
