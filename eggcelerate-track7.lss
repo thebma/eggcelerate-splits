@@ -15,7 +15,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Turn Left</Name>
+      <Name>Hump I</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -24,16 +24,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Bowling Pins</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Turn over Hump</Name>
+      <Name>Hump II</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
